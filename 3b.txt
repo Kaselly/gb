@@ -1,0 +1,3 @@
+#Sequence Types:
+list, tuple, range
+There are three basic sequence types: lists, tuples, and range objects. Additional sequence types tailored for processing of binary data and text strings are described in dedicated sections.
